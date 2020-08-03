@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: orange;
+}
+
+.generatore_password {
+  padding: 15px;
+  background-color: lightgrey;
+}
+
+#risultato {
+  color: blue;
+  font-weight: bold;
+  font-size: 1.6rem;
+}
