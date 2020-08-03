@@ -11,6 +11,11 @@ h1 {
 .generatore_password {
   padding: 15px;
   background-color: lightgrey;
+  transition: 2s linear;
+}
+
+.generatore_password:hover {
+  background-color: lightblue;
 }
 
 #risultato {
